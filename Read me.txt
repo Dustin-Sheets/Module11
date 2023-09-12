@@ -1,0 +1,3 @@
+Read me
+
+part 1 and 2 jupyter codes are in this directory as well as the CSV I exported
